@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+.form{
+    display: grid;
+    grid-auto-flow: row;
+    border: 1px solid rebeccapurple;
+    }
+    
+
+.hidden{
+    display: none;
+}
